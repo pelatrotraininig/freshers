@@ -4,6 +4,6 @@ public class Veena {
 
 	public static void main(String[] args)
 	{
-		System.out.println("First git java program");
+		System.out.println("First git java");
 	}
 }
