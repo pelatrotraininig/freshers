@@ -4,6 +4,7 @@ class SakshiSuman{
 		this.height = height;
 		this.weight = weight;
 		System.out.println("Parameters initialized");
+		System.out.printl("merged");
 	}
 
 	public static void main(String[] args){
