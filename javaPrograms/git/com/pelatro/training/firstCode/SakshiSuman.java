@@ -4,6 +4,7 @@ class SakshiSuman{
 		this.height = height;
 		this.weight = weight;
 		System.out.println("Parameters initialized");
+		System.out.println("I changed.");
 	}
 
 	public static void main(String[] args){
