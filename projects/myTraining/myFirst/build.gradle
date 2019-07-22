@@ -1,0 +1,4 @@
+apply plugin : 'application'
+
+sourceSets.main.java.srcDirs = ['src']
+mainClassName = 'com.pelatro.training.MyGradleBuild'
